@@ -1,0 +1,11 @@
+body{
+	margin: auto 0;
+}
+.text-box{
+	border-color: #53a4ec;
+	width: 100%;
+}
+
+.add-note{
+	margin-top: 10px;
+}
